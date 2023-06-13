@@ -13,7 +13,7 @@ Determine the values for the array
 using the linalg.ag matrix we can find the rank of the matrix
 ### Step 4: 
 End of the program
-## Program:
+### Program:
 ```
 import numpy as np
 a=np.array([[1,2,3],[3,6,9]])
